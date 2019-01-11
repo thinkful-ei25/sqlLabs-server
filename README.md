@@ -45,7 +45,7 @@ Future Plans of Updates:
 
 [front-end](https://github.com/thinkful-ei25/sqlLabs-client)
 
-[back-end](https://github.com/thinkful-ei25/sql-labs-mary-brady-server)
+[back-end](https://github.com/thinkful-ei25/sqlLabs-server)
 
 ## **`Navigating Repos`**<br/>
 **Front-end example routes** <br/>
@@ -73,9 +73,4 @@ All Flashcard related routes: /routes/question.js<br/>
 - Retrieval of User's answers from corresponding flashcard questions: '/backofcard'<br/>
 
 
-## **`Concept Wireframing`**
 
-LINK: [original-wireframe concept](./src/assets/sqlLearningLab_spacedRep_wireframes.pdf)
-
-## **`Screenshots`**
-![Dashboard](./src/assets/landing-main-page.png)
